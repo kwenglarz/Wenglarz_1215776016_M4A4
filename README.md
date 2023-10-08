@@ -1,2 +1,2 @@
-# Wenglarz_1215776016_M4A4
-Repository holding IFT458 Module 4 Activity 4
+# Wenglarz_1215776016_M3L2
+Used for Module 3 Lab 2
